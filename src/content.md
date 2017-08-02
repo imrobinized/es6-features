@@ -1,7 +1,7 @@
 
 ## Classes
 
-As we know them from "real" languages. Syntactic sugar on top of prototype-inheritence. 
+As we know them from "real" languages. Syntactic sugar on top of prototype-inheritance. 
 
 
 ```javascript
